@@ -1,6 +1,6 @@
 {
   "name": "mtgtypes",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Set of typescript types to make it easier to work with different Magic: The Gathering data sources.",
   "main": "dist/Types.js",
   "scripts": {
